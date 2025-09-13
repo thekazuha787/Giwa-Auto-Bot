@@ -1,0 +1,2 @@
+0xYourTestnetPrivateKey1:MainWalletname
+0xYourTestnetPrivateKey2:SecondaryWalletname
