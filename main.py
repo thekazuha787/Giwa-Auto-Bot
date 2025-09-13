@@ -9,8 +9,6 @@ from tabulate import tabulate
 import sys
 import json
 
-wib = pytz.timezone('Asia/Jakarta')
-
 class Giwa:
     def __init__(self) -> None:
         self.L1_NETWORK = {
